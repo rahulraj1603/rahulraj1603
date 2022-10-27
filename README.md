@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulraj1603
+- 👋 Hi, I’m ***Rahul Rajpurohit***
 - 👀 I’m interested in Learning CS fundamentals
 - 📫 You can reach me at rahul.rajpurohit1603@gmail.com
 
